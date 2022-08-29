@@ -1,0 +1,4 @@
+ margin-top: auto;
+    border: solid #e96d6d 2px;
+    border-style: inset;
+    border-radius: 5px;
